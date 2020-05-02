@@ -8,6 +8,7 @@
 		<version>2.1.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>  我来进行测试提交
+				jijingling的修改
 	<groupId>geektime.spring.springbucks</groupId>
 	<artifactId>jpa-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
